@@ -1,5 +1,5 @@
 # 💫 About Me:
-I major on android apps but I have done AI, web3 and blockchain projects
+I love Kotlin and I use it to engineer android apps and kotlin backend applications
 
 
 ## 🌐 Socials:
